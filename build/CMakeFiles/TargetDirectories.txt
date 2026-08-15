@@ -1,0 +1,5 @@
+C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CMakeFiles/CalculadoraAguaEspumas.dir
+C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CMakeFiles/edit_cache.dir
+C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CMakeFiles/CalculadoraAguaEspumas_autogen_timestamp_deps.dir
+C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CMakeFiles/CalculadoraAguaEspumas_autogen.dir
