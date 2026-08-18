@@ -1,5 +1,0 @@
-C:/Users/Home/Desktop/dev c++/calculadora_qt/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/CalculadoraAguaEspumas.dir
-C:/Users/Home/Desktop/dev c++/calculadora_qt/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
-C:/Users/Home/Desktop/dev c++/calculadora_qt/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Home/Desktop/dev c++/calculadora_qt/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/CalculadoraAguaEspumas_autogen_timestamp_deps.dir
-C:/Users/Home/Desktop/dev c++/calculadora_qt/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/CalculadoraAguaEspumas_autogen.dir
