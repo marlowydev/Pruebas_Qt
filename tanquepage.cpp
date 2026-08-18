@@ -1,4 +1,4 @@
-#include "tanquepage.h"
+ #include "tanquepage.h"
 
 #include <QDoubleValidator>
 #include <QFormLayout>
@@ -52,14 +52,15 @@ TanquePage::TanquePage(QWidget *parent)
     QGroupBox *dataGroup = new QGroupBox(tr("Datos de entrada"), this);
 
     m_diametro = createLineEdit(0.0, 1000000.0, 2);
+    m_diametro->setPlaceholderText(tr("Diámetro"));
     m_diametro->setToolTip(tr("Diámetro del tanque, en la unidad seleccionada"));
 
     m_metrosRadio = new QRadioButton(tr("Metros"), this);
     m_metrosRadio->setChecked(true);
-    m_metrosRadio->setToolTip(tr("El diámetro está en metros. Se convertirá a pies (x3.3) para el cálculo."));
+    m_metrosRadio->setToolTip(tr("Metros"));
 
     m_piesRadio = new QRadioButton(tr("Pies"), this);
-    m_piesRadio->setToolTip(tr("El diámetro ya está en pies. No se convierte."));
+    m_piesRadio->setToolTip(tr("Pies"));
 
     QHBoxLayout *unidadLayout = new QHBoxLayout;
     unidadLayout->addWidget(m_metrosRadio);
@@ -67,15 +68,19 @@ TanquePage::TanquePage(QWidget *parent)
     unidadLayout->addStretch();
 
     m_ia = createLineEdit(0.0, 1000.0, 3);
+    m_ia->setPlaceholderText(tr("IA"));
     m_ia->setToolTip(tr("Índice de aplicación (IA) del tanque"));
 
     m_tiempo = createLineEdit(0.0, 1000000.0, 1);
+    m_tiempo->setPlaceholderText(tr("Tiempo"));
     m_tiempo->setToolTip(tr("Tiempo de aplicación en minutos"));
 
     m_pe = createLineEdit(0.0, 100.0, 2);
+    m_pe->setPlaceholderText(tr("PE"));
     m_pe->setToolTip(tr("Porcentaje de espuma (ej. 3 = 3%)"));
 
     m_pa = createLineEdit(0.0, 100.0, 2);
+    m_pa->setPlaceholderText(tr("PA"));
     m_pa->setToolTip(tr("Porcentaje de agua (ej. 97 = 97%)"));
 
     QFormLayout *formLayout = new QFormLayout(dataGroup);

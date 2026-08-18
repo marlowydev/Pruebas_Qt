@@ -1,90 +1,31 @@
 # ninja log v6
-136	3193	8084816839420900	CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-136	3193	8084816839420900	CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-136	3193	8084816839420900	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-136	3193	8084816839420900	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-3277	14373	8084816843033021	CMakeFiles/CalculadoraAguaEspumas.dir/menupage.cpp.obj	eb24110271182bc0
-3257	14435	8084816842836263	CMakeFiles/CalculadoraAguaEspumas.dir/mainwindow.cpp.obj	42fd59fff912c44
-3221	14573	8084816842475112	CMakeFiles/CalculadoraAguaEspumas.dir/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp.obj	d16d6e80ea1dcf01
-3238	14923	8084816842640664	CMakeFiles/CalculadoraAguaEspumas.dir/main.cpp.obj	d2d0429c8a6e3dcf
-3324	15200	8084816843501272	CMakeFiles/CalculadoraAguaEspumas.dir/tanquepage.cpp.obj	20f505f052bb0f0e
-3303	15768	8084816843300671	CMakeFiles/CalculadoraAguaEspumas.dir/fosapage.cpp.obj	7c3ddd7ddce1b020
-15768	16522	8084816967945119	CalculadoraAguaEspumas.exe	f398452ac2204e35
-54	422	8084822667955598	CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-54	422	8084822667955598	CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-54	422	8084822667955598	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-54	422	8084822667955598	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-425	4946	8084822671675382	CMakeFiles/CalculadoraAguaEspumas.dir/fosapage.cpp.obj	7c3ddd7ddce1b020
-439	5109	8084822671812726	CMakeFiles/CalculadoraAguaEspumas.dir/tanquepage.cpp.obj	20f505f052bb0f0e
-5109	5576	8084822718518192	CalculadoraAguaEspumas.exe	f398452ac2204e35
-117	872	8084825775164712	CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-117	872	8084825775164712	CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-117	872	8084825775164712	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-117	872	8084825775164712	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-876	9494	8084825782762238	CMakeFiles/CalculadoraAguaEspumas.dir/fosapage.cpp.obj	7c3ddd7ddce1b020
-891	9884	8084825782898121	CMakeFiles/CalculadoraAguaEspumas.dir/tanquepage.cpp.obj	20f505f052bb0f0e
-9885	10754	8084825872847510	CalculadoraAguaEspumas.exe	f398452ac2204e35
-124	2529	8084828559465720	CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-124	2529	8084828559465720	CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-124	2529	8084828559465720	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-124	2529	8084828559465720	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-2543	9652	8084828564446639	CMakeFiles/CalculadoraAguaEspumas.dir/mainwindow.cpp.obj	42fd59fff912c44
-2558	9845	8084828564596740	CMakeFiles/CalculadoraAguaEspumas.dir/menupage.cpp.obj	eb24110271182bc0
-2531	10061	8084828564321014	CMakeFiles/CalculadoraAguaEspumas.dir/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp.obj	d16d6e80ea1dcf01
-2574	11384	8084828564762019	CMakeFiles/CalculadoraAguaEspumas.dir/fosapage.cpp.obj	7c3ddd7ddce1b020
-2594	11528	8084828564953520	CMakeFiles/CalculadoraAguaEspumas.dir/tanquepage.cpp.obj	20f505f052bb0f0e
-11529	12001	8084828654299067	CalculadoraAguaEspumas.exe	f398452ac2204e35
-114	761	8084838610364794	CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-114	761	8084838610364794	CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-114	761	8084838610364794	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-114	761	8084838610364794	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-764	9162	8084838616856018	CMakeFiles/CalculadoraAguaEspumas.dir/fosapage.cpp.obj	7c3ddd7ddce1b020
-778	9712	8084838617003032	CMakeFiles/CalculadoraAguaEspumas.dir/tanquepage.cpp.obj	20f505f052bb0f0e
-200	1239	8084838828197043	CalculadoraAguaEspumas.exe	f398452ac2204e35
-106	829	8084841286197145	CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-106	829	8084841286197145	CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-106	829	8084841286197145	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-106	829	8084841286197145	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-832	14210	8084841293463061	CMakeFiles/CalculadoraAguaEspumas.dir/fosapage.cpp.obj	7c3ddd7ddce1b020
-848	14951	8084841293619548	CMakeFiles/CalculadoraAguaEspumas.dir/tanquepage.cpp.obj	20f505f052bb0f0e
-14951	15520	8084841434647770	CalculadoraAguaEspumas.exe	f398452ac2204e35
-138	2197	8084843759524239	CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-138	2197	8084843759524239	CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-138	2197	8084843759524239	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-138	2197	8084843759524239	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-2231	9390	8084843762465928	CMakeFiles/CalculadoraAguaEspumas.dir/mainwindow.cpp.obj	42fd59fff912c44
-2215	9469	8084843762304939	CMakeFiles/CalculadoraAguaEspumas.dir/main.cpp.obj	d2d0429c8a6e3dcf
-2200	9724	8084843762159697	CMakeFiles/CalculadoraAguaEspumas.dir/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp.obj	d16d6e80ea1dcf01
-2247	11265	8084843762620538	CMakeFiles/CalculadoraAguaEspumas.dir/fosapage.cpp.obj	7c3ddd7ddce1b020
-2265	11654	8084843762816144	CMakeFiles/CalculadoraAguaEspumas.dir/tanquepage.cpp.obj	20f505f052bb0f0e
-11654	12564	8084843856700345	CalculadoraAguaEspumas.exe	f398452ac2204e35
-106	3921	8084847788000417	CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-106	3921	8084847788000417	CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-106	3921	8084847788000417	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-106	3921	8084847788000417	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-3993	10669	8084847794171813	CMakeFiles/CalculadoraAguaEspumas.dir/mainwindow.cpp.obj	42fd59fff912c44
-3959	10726	8084847793819692	CMakeFiles/CalculadoraAguaEspumas.dir/main.cpp.obj	d2d0429c8a6e3dcf
-3929	10997	8084847793519324	CMakeFiles/CalculadoraAguaEspumas.dir/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp.obj	d16d6e80ea1dcf01
-4035	12055	8084847794576159	CMakeFiles/CalculadoraAguaEspumas.dir/fosapage.cpp.obj	7c3ddd7ddce1b020
-4078	12116	8084847795006616	CMakeFiles/CalculadoraAguaEspumas.dir/tanquepage.cpp.obj	20f505f052bb0f0e
-12117	12705	8084847875393657	CalculadoraAguaEspumas.exe	f398452ac2204e35
-181	1404	8084849791793301	CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-181	1404	8084849791793301	CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-181	1404	8084849791793301	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-181	1404	8084849791793301	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-1412	10061	8084849804111209	CMakeFiles/CalculadoraAguaEspumas.dir/main.cpp.obj	d2d0429c8a6e3dcf
-10061	10563	8084849890583973	CalculadoraAguaEspumas.exe	f398452ac2204e35
-90	665	8084852275040521	CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-90	665	8084852275040521	CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-90	665	8084852275040521	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-90	665	8084852275040521	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-669	10233	8084852280831788	CMakeFiles/CalculadoraAguaEspumas.dir/fosapage.cpp.obj	7c3ddd7ddce1b020
-683	10387	8084852280976121	CMakeFiles/CalculadoraAguaEspumas.dir/tanquepage.cpp.obj	20f505f052bb0f0e
-10387	11209	8084852378009396	CalculadoraAguaEspumas.exe	f398452ac2204e35
-196	1361	8084853766105551	CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-196	1361	8084853766105551	CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-196	1361	8084853766105551	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
-196	1361	8084853766105551	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
-1363	11068	8084853777778128	CMakeFiles/CalculadoraAguaEspumas.dir/fosapage.cpp.obj	7c3ddd7ddce1b020
-1375	11226	8084853777898110	CMakeFiles/CalculadoraAguaEspumas.dir/tanquepage.cpp.obj	20f505f052bb0f0e
-11226	12251	8084853876401579	CalculadoraAguaEspumas.exe	f398452ac2204e35
+99	920	8087149595564811	CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
+1006	7606	8087142807038558	CMakeFiles/CalculadoraAguaEspumas.dir/menupage.cpp.obj	eb24110271182bc0
+182	3199	8087788536352660	build.ninja	ed0ea42dbecb2477
+99	920	8087149595564811	CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
+99	920	8087149595564811	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
+2852	11917	8087132402578381	CMakeFiles/CalculadoraAguaEspumas.dir/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp.obj	d16d6e80ea1dcf01
+99	920	8087149595564811	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
+2882	11900	8087132402883771	CMakeFiles/CalculadoraAguaEspumas.dir/mainwindow.cpp.obj	42fd59fff912c44
+1249	17778	8087135866646829	CMakeFiles/CalculadoraAguaEspumas.dir/main.cpp.obj	d2d0429c8a6e3dcf
+1040	9199	8087142807377316	CMakeFiles/CalculadoraAguaEspumas.dir/tanquepage.cpp.obj	20f505f052bb0f0e
+1279	21920	8087135866934489	CMakeFiles/CalculadoraAguaEspumas.dir/fosapage.cpp.obj	7c3ddd7ddce1b020
+10955	11275	8087149704113787	CalculadoraAguaEspumas.exe	8ecb63ad731b5fd9
+922	10954	8087149603783072	CMakeFiles/CalculadoraAguaEspumas.dir/techopage.cpp.obj	b6666996758ec3
+277	3186	8087788536352660	build.ninja	ed0ea42dbecb2477
+124	3294	8087788568306772	CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
+124	3294	8087788568306772	CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
+124	3294	8087788568306772	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
+124	3294	8087788568306772	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
+3333	14959	8087788571287766	CMakeFiles/CalculadoraAguaEspumas.dir/mainwindow.cpp.obj	42fd59fff912c44
+3314	14962	8087788571095530	CMakeFiles/CalculadoraAguaEspumas.dir/main.cpp.obj	d2d0429c8a6e3dcf
+3350	14965	8087788571453877	CMakeFiles/CalculadoraAguaEspumas.dir/menupage.cpp.obj	eb24110271182bc0
+3300	15213	8087788570963169	CMakeFiles/CalculadoraAguaEspumas.dir/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp.obj	d16d6e80ea1dcf01
+3367	16091	8087788571622395	CMakeFiles/CalculadoraAguaEspumas.dir/kilocaloriapage.cpp.obj	77631696fe8ebf86
+16092	17768	8087788698877377	CalculadoraAguaEspumas.exe	b33b2836b468bc24
+74	947	8087789206119272	CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
+74	947	8087789206119272	CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
+74	947	8087789206119272	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/timestamp	bc17143f53259356
+74	947	8087789206119272	C:/Users/Home/Desktop/dev c++/calculadora_qt/build/CalculadoraAguaEspumas_autogen/mocs_compilation.cpp	bc17143f53259356
+950	12145	8087789214883283	CMakeFiles/CalculadoraAguaEspumas.dir/kilocaloriapage.cpp.obj	77631696fe8ebf86
+12146	12779	8087789326844233	CalculadoraAguaEspumas.exe	b33b2836b468bc24

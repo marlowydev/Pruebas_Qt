@@ -14,6 +14,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/CalculadoraAguaEspumas.dir/menupage.cpp.obj.d"
   "CMakeFiles/CalculadoraAguaEspumas.dir/tanquepage.cpp.obj"
   "CMakeFiles/CalculadoraAguaEspumas.dir/tanquepage.cpp.obj.d"
+  "CMakeFiles/CalculadoraAguaEspumas.dir/techopage.cpp.obj"
+  "CMakeFiles/CalculadoraAguaEspumas.dir/techopage.cpp.obj.d"
   "CalculadoraAguaEspumas.exe"
   "CalculadoraAguaEspumas.exe.manifest"
   "CalculadoraAguaEspumas.pdb"

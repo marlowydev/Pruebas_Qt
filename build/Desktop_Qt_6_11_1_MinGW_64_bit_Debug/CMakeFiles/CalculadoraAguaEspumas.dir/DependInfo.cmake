@@ -15,6 +15,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Home/Desktop/dev c++/calculadora_qt/mainwindow.cpp" "CMakeFiles/CalculadoraAguaEspumas.dir/mainwindow.cpp.obj" "gcc" "CMakeFiles/CalculadoraAguaEspumas.dir/mainwindow.cpp.obj.d"
   "C:/Users/Home/Desktop/dev c++/calculadora_qt/menupage.cpp" "CMakeFiles/CalculadoraAguaEspumas.dir/menupage.cpp.obj" "gcc" "CMakeFiles/CalculadoraAguaEspumas.dir/menupage.cpp.obj.d"
   "C:/Users/Home/Desktop/dev c++/calculadora_qt/tanquepage.cpp" "CMakeFiles/CalculadoraAguaEspumas.dir/tanquepage.cpp.obj" "gcc" "CMakeFiles/CalculadoraAguaEspumas.dir/tanquepage.cpp.obj.d"
+  "C:/Users/Home/Desktop/dev c++/calculadora_qt/techopage.cpp" "CMakeFiles/CalculadoraAguaEspumas.dir/techopage.cpp.obj" "gcc" "CMakeFiles/CalculadoraAguaEspumas.dir/techopage.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

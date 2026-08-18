@@ -19,6 +19,8 @@ qt_add_executable(CalculadoraAguaEspumas
     menupage.cpp menupage.h
     fosapage.cpp fosapage.h
     tanquepage.cpp tanquepage.h
+    techopage.cpp techopage.h
+    kilocaloriapage.cpp kilocaloriapage.h
 )
 
 target_link_libraries(CalculadoraAguaEspumas PRIVATE Qt6::Widgets)

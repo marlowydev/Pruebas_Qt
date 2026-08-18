@@ -4,9 +4,11 @@
 #include <QMainWindow>
 
 class FosaPage;
+class KilocaloriaPage;
 class MenuPage;
 class QStackedWidget;
 class TanquePage;
+class TechoPage;
 
 class MainWindow : public QMainWindow
 {
@@ -18,6 +20,8 @@ public:
 private slots:
     void mostrarFosa();
     void mostrarTanque();
+    void mostrarTecho();
+    void mostrarKilocaloria();
     void mostrarMenu();
 
 private:
@@ -25,6 +29,8 @@ private:
     MenuPage *m_menu = nullptr;
     FosaPage *m_fosa = nullptr;
     TanquePage *m_tanque = nullptr;
+    TechoPage *m_techo = nullptr;
+    KilocaloriaPage *m_kilocaloria = nullptr;
 };
 
 #endif // MAINWINDOW_H

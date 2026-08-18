@@ -36,6 +36,20 @@ int main(int argc, char *argv[])
         QPushButton#menuButton:pressed {
             background-color: #15547f;
         }
+        QPushButton#menuButtonRed {
+            font-size: 18px;
+            font-weight: bold;
+            color: white;
+            background-color: #c62828;
+            border-radius: 12px;
+            padding: 12px;
+        }
+        QPushButton#menuButtonRed:hover {
+            background-color: #e03a3a;
+        }
+        QPushButton#menuButtonRed:pressed {
+            background-color: #a02020;
+        }
         QPushButton#backButton {
             font-size: 13px;
             color: #1b6ca8;
@@ -84,6 +98,10 @@ int main(int argc, char *argv[])
         }
         QLineEdit, QComboBox, QRadioButton {
             font-size: 14px;
+        }
+
+        QLineEdit::placeholder {
+            color: #9aa5b4;
         }
 
         QRadioButton {

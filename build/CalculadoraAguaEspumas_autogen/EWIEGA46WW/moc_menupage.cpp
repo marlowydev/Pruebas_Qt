@@ -41,7 +41,9 @@ template <> constexpr inline auto MenuPage::qt_create_metaobjectdata<qt_meta_tag
         "MenuPage",
         "fosaRequested",
         "",
-        "tanqueRequested"
+        "tanqueRequested",
+        "techoRequested",
+        "kilocaloriaRequested"
     };
 
     QtMocHelpers::UintData qt_methods {
@@ -49,6 +51,10 @@ template <> constexpr inline auto MenuPage::qt_create_metaobjectdata<qt_meta_tag
         QtMocHelpers::SignalData<void()>(1, 2, QMC::AccessPublic, QMetaType::Void),
         // Signal 'tanqueRequested'
         QtMocHelpers::SignalData<void()>(3, 2, QMC::AccessPublic, QMetaType::Void),
+        // Signal 'techoRequested'
+        QtMocHelpers::SignalData<void()>(4, 2, QMC::AccessPublic, QMetaType::Void),
+        // Signal 'kilocaloriaRequested'
+        QtMocHelpers::SignalData<void()>(5, 2, QMC::AccessPublic, QMetaType::Void),
     };
     QtMocHelpers::UintData qt_properties {
     };
@@ -74,6 +80,8 @@ void MenuPage::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, vo
         switch (_id) {
         case 0: _t->fosaRequested(); break;
         case 1: _t->tanqueRequested(); break;
+        case 2: _t->techoRequested(); break;
+        case 3: _t->kilocaloriaRequested(); break;
         default: ;
         }
     }
@@ -81,6 +89,10 @@ void MenuPage::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, vo
         if (QtMocHelpers::indexOfMethod<void (MenuPage::*)()>(_a, &MenuPage::fosaRequested, 0))
             return;
         if (QtMocHelpers::indexOfMethod<void (MenuPage::*)()>(_a, &MenuPage::tanqueRequested, 1))
+            return;
+        if (QtMocHelpers::indexOfMethod<void (MenuPage::*)()>(_a, &MenuPage::techoRequested, 2))
+            return;
+        if (QtMocHelpers::indexOfMethod<void (MenuPage::*)()>(_a, &MenuPage::kilocaloriaRequested, 3))
             return;
     }
 }
@@ -104,14 +116,14 @@ int MenuPage::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 2)
+        if (_id < 4)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 2;
+        _id -= 4;
     }
     if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 2)
+        if (_id < 4)
             *reinterpret_cast<QMetaType *>(_a[0]) = QMetaType();
-        _id -= 2;
+        _id -= 4;
     }
     return _id;
 }
@@ -126,5 +138,17 @@ void MenuPage::fosaRequested()
 void MenuPage::tanqueRequested()
 {
     QMetaObject::activate(this, &staticMetaObject, 1, nullptr);
+}
+
+// SIGNAL 2
+void MenuPage::techoRequested()
+{
+    QMetaObject::activate(this, &staticMetaObject, 2, nullptr);
+}
+
+// SIGNAL 3
+void MenuPage::kilocaloriaRequested()
+{
+    QMetaObject::activate(this, &staticMetaObject, 3, nullptr);
 }
 QT_WARNING_POP

@@ -50,18 +50,23 @@ FosaPage::FosaPage(QWidget *parent)
     QGroupBox *dataGroup = new QGroupBox(tr("Datos de entrada"), this);
 
     m_largo = createLineEdit(0.0, 1000000.0, 2);
+    m_largo->setPlaceholderText(tr("Largo"));
     m_largo->setToolTip(tr("Largo de la fosa en metros"));
 
     m_ancho = createLineEdit(0.0, 1000000.0, 2);
+    m_ancho->setPlaceholderText(tr("Ancho"));
     m_ancho->setToolTip(tr("Ancho de la fosa en metros"));
 
     m_tiempo = createLineEdit(0.0, 1000000.0, 1);
+    m_tiempo->setPlaceholderText(tr("Tiempo"));
     m_tiempo->setToolTip(tr("Tiempo de aplicación en minutos"));
 
     m_pe = createLineEdit(0.0, 100.0, 2);
+    m_pe->setPlaceholderText(tr("PE"));
     m_pe->setToolTip(tr("Porcentaje de espuma (ej. 3 = 3%)"));
 
     m_pa = createLineEdit(0.0, 100.0, 2);
+    m_pa->setPlaceholderText(tr("PA"));
     m_pa->setToolTip(tr("Porcentaje de agua (ej. 97 = 97%)"));
 
     QLabel *iaLabel = new QLabel(QString::number(IA_FOSA), dataGroup);

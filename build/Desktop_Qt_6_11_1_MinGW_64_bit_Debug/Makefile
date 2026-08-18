@@ -298,6 +298,30 @@ tanquepage.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CalculadoraAguaEspumas.dir\build.make CMakeFiles/CalculadoraAguaEspumas.dir/tanquepage.cpp.s
 .PHONY : tanquepage.cpp.s
 
+techopage.obj: techopage.cpp.obj
+.PHONY : techopage.obj
+
+# target to build an object file
+techopage.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CalculadoraAguaEspumas.dir\build.make CMakeFiles/CalculadoraAguaEspumas.dir/techopage.cpp.obj
+.PHONY : techopage.cpp.obj
+
+techopage.i: techopage.cpp.i
+.PHONY : techopage.i
+
+# target to preprocess a source file
+techopage.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CalculadoraAguaEspumas.dir\build.make CMakeFiles/CalculadoraAguaEspumas.dir/techopage.cpp.i
+.PHONY : techopage.cpp.i
+
+techopage.s: techopage.cpp.s
+.PHONY : techopage.s
+
+# target to generate assembly for a file
+techopage.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CalculadoraAguaEspumas.dir\build.make CMakeFiles/CalculadoraAguaEspumas.dir/techopage.cpp.s
+.PHONY : techopage.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -327,6 +351,9 @@ help:
 	@echo ... tanquepage.obj
 	@echo ... tanquepage.i
 	@echo ... tanquepage.s
+	@echo ... techopage.obj
+	@echo ... techopage.i
+	@echo ... techopage.s
 .PHONY : help
 
 
